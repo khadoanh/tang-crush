@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Em có thích món quà này ko ',
     btnYes: 'ko, em ko thích :((',
     btnNo: 'Có, em rất thích :3',
-    question:'Anh đùa chút, qua tuổi mới em mong muốn điều gì nhất <3',
+    question:'Anh đùa một chút, qua tuổi mới em mong muốn điều gì nhất <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Em vẫn là người đẹp nhất trong mắt anh <33333333',
     mess: 'Sinh nhật vui vẻ nhé 🥰. bé iu của anh 😘😘',
